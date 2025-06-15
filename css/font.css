@@ -1,0 +1,129 @@
+@font-face {
+    font-family: 'futura';
+    src: local('futura'), url('../../font/futura.eot') format('embedded-opentype'), url('../../font/futura.ttf') format('truetype');
+    /*  font-weight: 400;*/
+}
+
+@font-face {
+    font-family: 'Athena';
+    src: local('Athena'), url('../../font/Athena-Regular.eot') format('embedded-opentype'), url('../../font/Athena-Regular.ttf') format('truetype');
+    /*  font-weight: 400;*/
+}
+
+@font-face {
+    font-family: 'DEFINE';
+    src: url('../font/DEFINE.eot');
+    src: local('../font'), url('../font/DEFINE.eot') format('embedded-opentype'), url('../font/DEFINE.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Carisma Classic';
+    src: url('../font/carisma/CarismaClassic-700Bold.eot');
+    src: local('../font/carisma/CarismaClassic-700Bold'), url('../font/carisma/CarismaClassic-700Bold.eot?#iefix') format('embedded-opentype'), url('../font/carisma/CarismaClassic-700Bold.woff2') format('woff2'), url('../font/carisma/CarismaClassic-700Bold.woff') format('woff'), url('../font/carisma/CarismaClassic-700Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Carisma Classic';
+    src: url('../font/carisma/CarismaClassic-600DemiBold.eot');
+    src: local('../font/carisma/CarismaClassic-600DemiBold'), url('../font/carisma/CarismaClassic-600DemiBold.eot?#iefix') format('embedded-opentype'), url('../font/carisma/CarismaClassic-600DemiBold.woff2') format('woff2'), url('../font/carisma/CarismaClassic-600DemiBold.woff') format('woff'), url('../font/carisma/CarismaClassic-600DemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Carisma Classic';
+    src: url('../font/carisma/CarismaClassic-500Medium.eot');
+    src: local('../font/carisma/CarismaClassic-500Medium'), url('../font/carisma/CarismaClassic-500Medium.eot?#iefix') format('embedded-opentype'), url('../font/carisma/CarismaClassic-500Medium.woff2') format('woff2'), url('../font/carisma/CarismaClassic-500Medium.woff') format('woff'), url('../font/carisma/CarismaClassic-500Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Carisma Classic';
+    src: url('../font/carisma/CarismaClassic-400Regular.eot');
+    src: local('../font/carisma/CarismaClassic-400Regular'), url('../font/carisma/CarismaClassic-400Regular.eot?#iefix') format('embedded-opentype'), url('../font/carisma/CarismaClassic-400Regular.woff2') format('woff2'), url('../font/carisma/CarismaClassic-400Regular.woff') format('woff'), url('../font/carisma/CarismaClassic-400Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Carisma Classic';
+    src: url('../font/carisma/CarismaClassic-300Light.eot');
+    src: local('../font/carisma/CarismaClassic-300Light'), url('../font/carisma/CarismaClassic-300Light.eot?#iefix') format('embedded-opentype'), url('../font/carisma/CarismaClassic-300Light.woff2') format('woff2'), url('../font/carisma/CarismaClassic-300Light.woff') format('woff'), url('../font/carisma/CarismaClassic-300Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Carisma Gothic';
+    src: url('../font/carisma/CarismaGothic-100Hairline.eot');
+    src: local('../font/carisma/CarismaGothic-100Hairline'), url('../font/carisma/CarismaGothic-100Hairline.eot?#iefix') format('embedded-opentype'), url('../font/carisma/CarismaGothic-100Hairline.woff2') format('woff2'), url('../font/carisma/CarismaGothic-100Hairline.woff') format('woff'), url('../font/carisma/CarismaGothic-100Hairline.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Carisma Gothic';
+    src: url('../font/carisma/CarismaGothic-200ExtraLight.eot');
+    src: local('../font/carisma/CarismaGothic-200ExtraLight'), url('../font/carisma/CarismaGothic-200ExtraLight.eot?#iefix') format('embedded-opentype'), url('../font/carisma/CarismaGothic-200ExtraLight.woff2') format('woff2'), url('../font/carisma/CarismaGothic-200ExtraLight.woff') format('woff'), url('../font/carisma/CarismaGothic-200ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Carisma Gothic';
+    src: url('../font/carisma/CarismaGothic-300Light.eot');
+    src: local('../font/carisma/CarismaGothic-300Light'), url('../font/carisma/CarismaGothic-300Light.eot?#iefix') format('embedded-opentype'), url('../font/carisma/CarismaGothic-300Light.woff2') format('woff2'), url('../font/carisma/CarismaGothic-300Light.woff') format('woff'), url('../font/carisma/CarismaGothic-300Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Carisma Gothic';
+    src: url('../font/carisma/CarismaGothic-400Regular.eot');
+    src: local('../font/carisma/CarismaGothic-400Regular'), url('../font/carisma/CarismaGothic-400Regular.eot?#iefix') format('embedded-opentype'), url('../font/carisma/CarismaGothic-400Regular.woff2') format('woff2'), url('../font/carisma/CarismaGothic-400Regular.woff') format('woff'), url('../font/carisma/CarismaGothic-400Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Carisma Gothic';
+    src: url('../font/carisma/CarismaGothic-500Medium.eot');
+    src: local('../font/carisma/CarismaGothic-500Medium'), url('../font/carisma/CarismaGothic-500Medium.eot?#iefix') format('embedded-opentype'), url('../font/carisma/CarismaGothic-500Medium.woff2') format('woff2'), url('../font/carisma/CarismaGothic-500Medium.woff') format('woff'), url('../font/carisma/CarismaGothic-500Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Carisma Gothic';
+    src: url('../font/carisma/CarismaGothic-600DemiBold.eot');
+    src: local('../font/carisma/CarismaGothic-600DemiBold'), url('../font/carisma/CarismaGothic-600DemiBold.eot?#iefix') format('embedded-opentype'), url('../font/carisma/CarismaGothic-600DemiBold.woff2') format('woff2'), url('../font/carisma/CarismaGothic-600DemiBold.woff') format('woff'), url('../font/carisma/CarismaGothic-600DemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Carisma Gothic';
+    src: url('../font/carisma/CarismaGothic-700Bold.eot');
+    src: local('../font/carisma/CarismaGothic-700Bold'), url('../font/carisma/CarismaGothic-700Bold.eot?#iefix') format('embedded-opentype'), url('../font/carisma/CarismaGothic-700Bold.woff2') format('woff2'), url('../font/carisma/CarismaGothic-700Bold.woff') format('woff'), url('../font/carisma/CarismaGothic-700Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Carisma Gothic';
+    src: url('../font/carisma/CarismaGothic-800ExtraBold.eot');
+    src: local('../font/carisma/CarismaGothic-800ExtraBold'), url('../font/carisma/CarismaGothic-800ExtraBold.eot?#iefix') format('embedded-opentype'), url('../font/carisma/CarismaGothic-800ExtraBold.woff2') format('woff2'), url('../font/carisma/CarismaGothic-800ExtraBold.woff') format('woff'), url('../font/carisma/CarismaGothic-800ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Carisma Gothic';
+    src: url('../font/carisma/CarismaGothic-900UltraBold.eot');
+    src: local('../font/carisma/CarismaGothic-900UltraBold'), url('../font/carisma/CarismaGothic-900UltraBold.eot?#iefix') format('embedded-opentype'), url('../font/carisma/CarismaGothic-900UltraBold.woff2') format('woff2'), url('../font/carisma/CarismaGothic-900UltraBold.woff') format('woff'), url('../font/carisma/CarismaGothic-900UltraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
