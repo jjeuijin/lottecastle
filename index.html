@@ -1249,6 +1249,13 @@
     wcs_do();
   }
 </script>
+<script>
+  if (window.innerWidth <= 768 || /Mobi|Android|iPhone/i.test(navigator.userAgent)) {
+    if (!window.location.pathname.includes('/m/')) {
+      window.location.href = "/m/index.html";
+    }
+  }
+</script>
 </body>
 
 
